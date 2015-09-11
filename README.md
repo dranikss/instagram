@@ -1,5 +1,7 @@
 # Мини обертка для instagram API
 
+PHP обертка запросов instagram API https://instagram.com/developer/endpoints/
+
       require_once('lib_instagram.php');
 
       $instagram = new Instagram(
