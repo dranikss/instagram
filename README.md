@@ -1,7 +1,10 @@
 # Мини обертка для instagram API
+
+      require_once('lib_instagram.php');
+
       $instagram = new Instagram(
         array(
-          'client_id' => 'CLIENT_ID', 
+          'client_id' => 'CLIENT_ID',
         )
       );
 
