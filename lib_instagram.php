@@ -4,7 +4,6 @@
 * @author Drankov Sergey [dranikss]
 *
 */
-
  class Instagram {
 
  	private $client_id;
