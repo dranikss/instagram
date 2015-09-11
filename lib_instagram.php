@@ -1,9 +1,9 @@
 <?php
-  /*
-  * Instagram API мини обертка
-  * @author Drankov Sergey [dranikss]
-  *
-  */
+/*
+* Instagram API мини обертка
+* @author Drankov Sergey [dranikss]
+*
+*/
  class Instagram {
 
  	private $client_id;
